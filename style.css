@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    position: fixed;
+}
+li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 8px;
+    margin-left: 30px;
+}
+li .active{
+    color: #d90e0e;
+    margin-left: 300px;
+}
+li .active:hover{
+    color: #d90e0e;
+}
+li a:hover{
+    color: #d90e0e;
+}
+.search{
+    margin-left: 80px;
+}
+.butt{
+    background-color: #d90e0e;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 8px;
+    color: #fff;
+    margin-left: 40px;
+}
+.butt:hover{
+    background-color: #fff;
+    color: #d90e0e;
+}
+.col{
+    background: url("img/19fe50136214625\ 2.png");
+    height: 120vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nike{
+    position: absolute;
+    left: 180px;
+    top: 250px;
+}
+.rect{
+    position: absolute;
+    top: 220px;
+    left: 80px;
+}
+.rectan{
+    position: absolute;
+    top: 410px;
+    right: 76px;
+}
+.para{
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    color: #fff;
+}
+.sign{
+    position: absolute;
+    top: 550px;
+    left: 500px;
+    width: 10%;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #d90e0e;
+    color: #fff;
+}
+.sign:hover{
+    color: #d90e0e;
+    background-color: #fff;
+}
+.sing{
+    position: absolute;
+    top: 550px;
+    left: 660px;
+    background-color: #fff;
+    width: 10%;
+    border-radius: 20px;
+    color: #000;
+    font-weight: 600;
+    font-size: 12px;
+}
+.sing:hover{
+    color: #fff;
+    background-color: #000;
+}
+.col1{
+    background: url("img/Rectangle\ 1\ \(1\).png");
+    height: 3vh;
+}
+.col2{
+    width: 1348px;
+    background-color: #ff3f26;
+    height: 80vh;
+    padding-top: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col3{
+    background: url("img/teahub\ 1.png");
+    height: 240vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shoe{
+    width: 47%;
+    position: absolute;
+    top: 480px;
+    left: 5px;
+}
+.best{
+    position: absolute;
+    right: 100px;
+    width: 25%;
+    top: 770px;
+}
+.extra{
+    position: absolute;
+    right: 160px;
+    top: 860px;
+    width: 20%;
+}
+.feat{
+    position: absolute;
+    width: 96%;
+    top: 1080px;
+    left: 48px;
+}
+.jug{
+    position: absolute;
+    width: 90%;
+    top: 1270px;
+    right: 130px;
+}
+.angle{
+    position: absolute;
+    top: 1450px;
+    left: 250px;
+    width: 60%;
+    height: 300px;
+    background-color: #9d7979;
+    border-radius: 40px;
+}
+.angel{
+    position: absolute;
+    top: 1420px;
+    left: 320px;
+    width: 50%;
+    background-color: #9d7979;
+    border-radius: 40px;
+}
+.untit{
+    position: absolute;
+    top: 1150px;
+    left: 110px;
+    width: 77%;
+}
+.dollar{
+    position: absolute;
+    top: 1720px;
+    left: 350px;
+    width: 150px;
+}
+.vet{
+    position: absolute;
+    top: 1620px;
+    left: 340px;
+    width: 20px;
+}
+.veto{
+    position: absolute;
+    top: 1620px;
+    right: 375px;
+    width: 20px;
+}
+.cup{
+    position: absolute;
+    top: 1868px;
+    left: 430px;
+    width: 35px;
+}
+.love{
+    position: absolute;
+    top: 1878px;
+    left: 437px;
+    width: 20px;
+}
+.add{
+    position: absolute;
+    top: 1860px;
+    left: 480px;
+    width: 30%;
+    border-radius: 30px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #d90e0e;
+}
+.add:hover{
+    color: #d90e0e;
+    background-color: #fff;
+}
+.art{
+    position: absolute;
+    top: 1875px;
+    right: 480px;
+    width: 23px;
+}
+.prod{
+    position: absolute;
+    top: 1890px;
+    left: 185px;
+    width: 80%;
+}
+.round{
+    position: absolute;
+    top: 2450px;
+    left: 500px;
+    width: 40px;
+}
+.count{
+    position: absolute;
+    top: 2450px;
+    left: 620px;
+    width: 40px;
+}
+.ound{
+    position: absolute;
+    top: 2450px;
+    left: 750px;
+    width: 40px;
+}
+.foot{
+    position: absolute;
+    top: 2500px;
+    left: 400px;
+    width: 500px;
+    border-radius: 0px;
+    background-color: #4a0000;
+}
+.col4{
+    position: absolute;
+    top: 2758px;
+    width: 100%;
+    right: 0px;
+    height: 210px;
+}
+.group{
+    position: absolute;
+    top: 2796px;
+    left: 200px;
+    width: 180px;
+}.niked{
+    position: absolute;
+    top: 2860px;
+    left: 200px;
+    width: 70px;
+}
+.group8{
+    position: absolute;
+    top: 2856px;
+    left: 300px;
+    width: 55px;
+}
+.gift{
+    position: absolute;
+    top: 2800px;
+    left: 500px;
+    width: 80px;
+}
+.help{
+    position: absolute;
+    top: 2800px;
+    left: 680px;
+    width: 80px;
+}
+.contact{
+    position: absolute;
+    top: 2800px;
+    left: 870px;
+    width: 60px;
+}
+.about{
+    position: absolute;
+    top: 2940px;
+    left: 300px;
+    width: 50%
+}
